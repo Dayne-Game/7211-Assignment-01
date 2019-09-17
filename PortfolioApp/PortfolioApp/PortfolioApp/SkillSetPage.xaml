@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="PortfolioApp.SkillSetPage"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="232" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                
+                <!-- Header Background -->
+                <Image x:Name="HeaderBackground_Image" Style="{StaticResource HeaderBackground}" />
+
+                <!-- Back Button -->
+                <ImageButton x:Name="BackArrow_Image" Style="{StaticResource BackArrowButton}" Clicked="BackToHomeScreen_Clicked" />
+                
+                <!-- Title -->
+                <Label x:Name="My_Skills" Style="{StaticResource MainPageTitle}" />
+                
+                <!-- Grid for the Second Column (Content Column) -->
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="AUTO" />
+                        <RowDefinition Height="AUTO" />
+                        <RowDefinition Height="AUTO" />
+                        <RowDefinition Height="AUTO" />
+                    </Grid.RowDefinitions>
+                    
+                    <!-- Title for the About / Interests -->
+                    <Label x:Name="About_Interests" Style="{StaticResource AboutInterests}" />
+                    
+                    <!-- About / Interests Paragraph -->
+                    <Label x:Name="About_Interests_Content" Style="{StaticResource BodyStyle}" />
+                    
+                    <!-- Skills Title -->
+                    <Label x:Name="Skills" Style="{StaticResource SubTitleStyles}"/>
+                    
+                    <!-- Stack Layout of My Skills -->
+                    <StackLayout Grid.Row="3">
+                        <StackLayout Style="{StaticResource CardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="HTML_Image" Style="{StaticResource ImagePropertys}"/>
+                                <StackLayout Grid.Column="1">
+                                    <Label x:Name="HTML_CSS_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <ProgressBar x:Name="HTML_CSS_Progress" Style="{StaticResource ProgressBarProperty}" />
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout Style="{StaticResource CardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="Javascript_Image" Style="{StaticResource ImagePropertys}"/>
+                                <StackLayout Grid.Column="1">
+                                    <Label x:Name="Javascript_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <ProgressBar x:Name="Javascript_Progress" Style="{StaticResource ProgressBarProperty}" />
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout Style="{StaticResource CardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="Swift_Image" Style="{StaticResource ImagePropertys}"/>
+                                <StackLayout Grid.Column="1">
+                                    <Label x:Name="Swift_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <ProgressBar x:Name="Swift_Progress" Style="{StaticResource ProgressBarProperty}" />
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout Style="{StaticResource CardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="CSharp_Image" Style="{StaticResource ImagePropertys}"/>
+                                <StackLayout Grid.Column="1">
+                                    <Label x:Name="CSharp_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <ProgressBar x:Name="CSharp_Progress" Style="{StaticResource ProgressBarProperty}" />
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                    </StackLayout>
+                </Grid>
+
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

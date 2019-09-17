@@ -1,0 +1,174 @@
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.iOS.exe
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.iOS.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.dll.mdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Contents.json.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/HeaderBackground.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/HeaderBackground1.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/HeaderBackground2.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/profile.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/profile1.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/profile2.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon1024.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon180.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon167.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon152.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon120.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon87.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon80.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon76.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon60.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon58.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon40.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon29.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Icon20.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/optimized/
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.csprojAssemblyReference.cache
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.csproj.CoreCompileInputs.cache
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.csproj.CopyComplete
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.exe
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Essentials.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Essentials.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Core.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Core.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.iOS.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.iOS.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Xaml.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Xaml.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.iOS.resources.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/PortfolioApp.dll.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/PortfolioApp.pdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/PortfolioApp.dll.mdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Essentials.dll.mdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Xamarin.Forms.Platform.iOS.dll.mdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/PortfolioApp.iOS.exe.mdb.ReferenceCopyLocalPaths.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/PortfolioApp.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Entitlements.plist.NoneOutput.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/CopyFilesToMac/Info.plist.NoneOutput.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/TwitterImage.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/TwitterImage1.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/TwitterImage2.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Facebook3.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Facebook4.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Facebook5.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Instagram.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Instagram1.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/Instagram2.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/LoadBarOne.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/LoadBarOne1.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/LoadBarOne2.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/HTMLCSS.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/HTMLCSS1.png.ResolveUTIs.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/HTMLCSS2.png.ResolveUTIs.stamp
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.iOS.exe
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.iOS.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/bin/iPhoneSimulator/Debug/PortfolioApp.dll.mdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.csprojAssemblyReference.cache
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.csproj.CoreCompileInputs.cache
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.csproj.CopyComplete
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.exe
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/PortfolioApp.iOS.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/actool/_PartialAppManifest.items
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/coremlc/_PartialAppManifest.items
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.4/optimized/

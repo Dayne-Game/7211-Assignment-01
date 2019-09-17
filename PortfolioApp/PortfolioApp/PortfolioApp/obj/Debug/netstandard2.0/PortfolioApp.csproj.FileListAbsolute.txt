@@ -1,0 +1,28 @@
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.csprojAssemblyReference.cache
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.csproj.CoreCompileInputs.cache
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.AssemblyInfoInputs.cache
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.AssemblyInfo.cs
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/bin/Debug/netstandard2.0/PortfolioApp.deps.json
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/bin/Debug/netstandard2.0/PortfolioApp.dll
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/bin/Debug/netstandard2.0/PortfolioApp.pdb
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Gorilla Rig/source/repos/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/SkillSetPage.xaml.g.cs
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/bin/Debug/netstandard2.0/PortfolioApp.deps.json
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/bin/Debug/netstandard2.0/PortfolioApp.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/bin/Debug/netstandard2.0/PortfolioApp.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/SkillSetPage.xaml.g.cs
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.csproj.CoreCompileInputs.cache
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.AssemblyInfoInputs.cache
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.AssemblyInfo.cs
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.dll
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.pdb
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/ProjectsPage.xaml.g.cs
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/PortfolioApp.csprojAssemblyReference.cache
+/Users/dayne-game/Desktop/PortfolioApp/PortfolioApp/PortfolioApp/obj/Debug/netstandard2.0/ContactPage.xaml.g.cs

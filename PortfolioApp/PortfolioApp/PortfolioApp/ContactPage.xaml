@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="PortfolioApp.ContactPage"
+    NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="232" />
+                    <RowDefinition Height="AUTO" />
+                </Grid.RowDefinitions>
+
+                <!-- Header Background -->
+                <Image x:Name="HeaderBackground_Image" Style="{StaticResource HeaderBackground}" />
+
+                <!-- Back Button -->
+                <ImageButton x:Name="BackArrow_Image" Style="{StaticResource BackArrowButton}" Clicked="BackToHomeScreen_Clicked" />
+                
+                <!-- Title -->
+                <Label x:Name="Contact_Title" Style="{StaticResource MainPageTitle}" />
+
+                <StackLayout Style="{StaticResource ContactCardLayout}">
+                    <Label x:Name="Get_In_Touch_Title" Style="{StaticResource ContactTitle}" />
+                    <Label x:Name="Name_Title" Style="{StaticResource ContactLabel}" />
+                    <Entry x:Name="Name_Entry" Placeholder="e.g John Doe" Style="{StaticResource EntryProperties}"/>
+                    <Label x:Name="Email_Title" Style="{StaticResource ContactLabel}" />
+                    <Entry x:Name="Email_Entry" Placeholder="e.g example@example.com" Style="{StaticResource EntryProperties}"/>
+                    <Label x:Name="Subject_Title" Style="{StaticResource ContactLabel}" />
+                    <Entry x:Name="Subject_Entry" Placeholder="e.g Job Opportunity!" Style="{StaticResource EntryProperties}"/>
+                    <Label x:Name="Message_Title" Style="{StaticResource ContactLabel}" />
+                    <Editor x:Name="Mesage_Entry" Placeholder="e.g Hi Dayne! This is a great app!" Style="{StaticResource MessageProperty}" />
+                    <Button x:Name="Send_Btn" Style="{StaticResource SendButton}" Clicked="Send_Email_Clicked" /> 
+                </StackLayout>
+
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

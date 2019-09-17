@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="PortfolioApp.App">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <!-- Colors -->
+            <Color x:Key="HeaderTextBlue">#2CB2F9</Color>
+            <Color x:Key="HeaderTextWhite">#ffffff</Color>
+            <Color x:Key="BodyTextColor">#5A5A5A</Color>
+            <Color x:Key="BackgroundColor">#ffffff</Color>
+
+            <!-- Font Families -->
+            <OnPlatform x:Key="SFProDisplayMedium" x:TypeArguments="x:String">
+                <On Platform="iOS">SF-Pro-Display-Medium</On>
+                <On Platform="Android">SF-Pro-Display-Medium</On>
+            </OnPlatform>
+
+            <OnPlatform x:Key="SFProDisplayRegular" x:TypeArguments="x:String">
+                <On Platform="iOS">SF-Pro-Display-Regular</On>
+                <On Platform="Android">sans-serif</On>
+            </OnPlatform>
+
+            <OnPlatform x:Key="SFProTextMedium" x:TypeArguments="x:String">
+                <On Platform="iOS">SF-Pro-Text-Medium</On>
+                <On Platform="Android">sans-serif-Medium</On>
+            </OnPlatform>
+
+            <OnPlatform x:Key="SFProDisplayItalic" x:TypeArguments="x:String">
+                <On Platform="iOS">SF-Pro-Text-MediumItalic</On>
+                <On Platform="Android">sans-serif-Medium-Italic</On>
+            </OnPlatform>
+
+            <!-- Font Sizes -->
+            <x:Double x:Key="Title">50</x:Double>
+            <x:Double x:Key="Header-Title">30</x:Double>
+            <x:Double x:Key="Normal-20">20</x:Double>
+            <x:Double x:Key="Normal-25">25</x:Double>
+            <x:Double x:Key="Normal-24">24</x:Double>
+            <x:Double x:Key="Normal-18">18</x:Double>
+            <x:Double x:Key="Normal-15">15</x:Double>
+            <x:Double x:Key="Subtitle">15</x:Double>
+            <x:Double x:Key="Text">17</x:Double>
+
+            <!-- Styles -->
+            <Style x:Key="ProfileNameLabel" TargetType="Label">
+                <Setter Property="TextColor" Value="{StaticResource HeaderTextWhite}" />
+                <Setter Property="FontFamily" Value="{StaticResource SFProDisplayMedium}" />
+                <Setter Property="FontSize" Value="{StaticResource Header-Title}" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+            </Style>
+
+            <Style x:Key="ProfileTagLabel" TargetType="Label">
+                <Setter Property="TextColor" Value="{StaticResource HeaderTextWhite}" />
+                <Setter Property="FontFamily" Value="{StaticResource SFProDisplayMedium}" />
+                <Setter Property="FontSize" Value="{StaticResource Normal-20}" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="PortfolioApp.ProjectsPage"
+    NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="232" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                
+                <!-- Header Background -->
+                <Image x:Name="HeaderBackground_Image" Style="{StaticResource HeaderBackground}" />
+
+                <!-- Back Button -->
+                <ImageButton x:Name="BackArrow_Image" Style="{StaticResource BackArrowButton}" Clicked="BackToHomeScreen_Clicked" />
+                
+                <!-- Title -->
+                <Label x:Name="Projects_Title" Style="{StaticResource MainPageTitle}" />
+                
+                <!-- Grid for the Second Column (Content Column) -->
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="AUTO" />
+                        <RowDefinition Height="AUTO" />
+                        <RowDefinition Height="AUTO" />
+                        <RowDefinition Height="AUTO" />
+                    </Grid.RowDefinitions>
+                    
+                    <!-- Title for the Brief -->
+                    <Label x:Name="Brief_Title" Style="{StaticResource AboutInterests}" />
+                    
+                    <!-- Brief Paragraph -->
+                    <Label x:Name="Brief_Content_Paragraph" Style="{StaticResource BodyStyle}" />
+                    
+                    <!-- Skills Title -->
+                    <Label x:Name="My_Projects_Title" Style="{StaticResource SubTitleStyles}"/>
+                    
+                    <!-- Stack Layout of My current an previous projects -->
+                    <StackLayout Grid.Row="3">
+                        <StackLayout Style="{StaticResource BigCardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="BOP_Image" Style="{StaticResource BigImagePropertys}"/>
+                                <StackLayout Grid.Column="1" Margin="0,5,0,0">
+                                    <Label x:Name="BOP_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <StackLayout Orientation="Horizontal" Margin="10,0,0,0">
+                                        <Label Style="{StaticResource StatusText}" />
+                                        <Label Style="{StaticResource Completed}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout Style="{StaticResource BigCardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="USB_Image" Style="{StaticResource BigImagePropertys}"/>
+                                <StackLayout Grid.Column="1" Margin="0,5,0,0">
+                                    <Label x:Name="USB_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <StackLayout Orientation="Horizontal" Margin="10,0,0,0">
+                                        <Label Style="{StaticResource StatusText}" />
+                                        <Label Style="{StaticResource NotCompleted}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout Style="{StaticResource BigCardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="WWG_Image" Style="{StaticResource BigImagePropertys}"/>
+                                <StackLayout Grid.Column="1" Margin="0,5,0,0">
+                                    <Label x:Name="WWG_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <StackLayout Orientation="Horizontal" Margin="10,0,0,0">
+                                        <Label Style="{StaticResource StatusText}" />
+                                        <Label Style="{StaticResource Completed}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout Style="{StaticResource BigCardLayout}">
+                            <Grid ColumnSpacing="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="AUTO" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image x:Name="Github_Image" Style="{StaticResource BigImagePropertys}"/>
+                                <StackLayout Grid.Column="1" Margin="0,5,0,0">
+                                    <Label x:Name="Github_Text" Style="{StaticResource SkillSubtitle}" />
+                                    <StackLayout Orientation="Horizontal" Margin="10,0,0,0">
+                                        <Label Style="{StaticResource StatusText}" />
+                                        <Label Style="{StaticResource Completed}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                    </StackLayout>
+                </Grid>
+
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

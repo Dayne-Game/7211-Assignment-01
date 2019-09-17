@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{621C573A-5B02-4B8E-9424-7DDA14E033FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.PortfolioApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.69A8B2FC-145E-4BA7-8FE3-6F989189C0C6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PortfolioApp/PortfolioApp/MainPage.xaml">
+    <Files>
+      <File FileName="PortfolioApp/PortfolioApp/MainPage.xaml" Line="92" Column="72" />
+      <File FileName="PortfolioApp/PortfolioApp/MainPage.xaml.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PortfolioApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.test1" />
+  <MultiItemStartupConfigurations />
+</Properties>
